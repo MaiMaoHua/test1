@@ -6,6 +6,8 @@ public class test1 {
 	//33333
 //666
   //22222
-
+public static void main(String[] args) {
+	
+}
 
 }
